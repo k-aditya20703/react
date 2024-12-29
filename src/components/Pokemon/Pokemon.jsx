@@ -63,7 +63,7 @@ const searchData = pokemonData.filter((curPokemon)=>
         <h1>Let's Catch Pokemon</h1>
 
         <input type='search' value={search} onChange={handleSearch} placeholder='Search Pokemon'></input>
-        {isLoading &&<p style={{color:'red'}}>Loading...</p>}
+        {isLoading &&<p>Loading...</p>}
         </div>
         {
           //pokemonData.map((curPokemon)=>{
