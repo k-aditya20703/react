@@ -1,0 +1,74 @@
+.pok-card{
+    width: 15rem;
+    background-color: #ffffff;
+    /* border-top-right-radius: 10px;
+    border-top-left-radius: 10px; */
+    /* height: 18rem; */
+    border-radius: 10px;
+    display: block;
+    justify-content: center;
+    margin: 1rem;
+}
+.pok-design{
+    background-color: #a7ffdd59;
+    width: 13rem;
+    height: 7rem;
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    margin-left: 1rem;
+}
+
+.pok-logo{
+    width: 15rem;
+    /* height: 5rem; */
+    background-image: linear-gradient(white,#a7ffdd91);
+    /* margin-left: 1rem; */
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-top: 1rem;
+}
+.pok-avtar{
+    width: 8rem;
+    height: 8rem;
+    margin-top: -7rem;
+    margin-left: 2.7rem;
+}
+
+
+.avtar-name{
+    background-color: aquamarine;
+    /* border-radius: 1rem; */
+    color: black;
+    text-align: center;
+
+    margin-top: .1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.pok-header{
+    text-align: center;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.pok-header input{
+    width: 20rem;
+    border: none;
+    background-color: white;
+    border-radius: 5px;
+    height: 2rem;
+    padding-left: 1rem;
+}
+.pok-body{
+    display: inline-flex;
+    justify-content: center;
+    margin-left: 3rem;
+
+}
+.pok-detail{
+    display: inline-flex;
+    margin-top: -1rem;
+    margin-left: 1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.pok-detail p {
+    margin-left: 1rem;
+}

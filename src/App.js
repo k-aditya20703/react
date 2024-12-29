@@ -1,24 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+// import UseRef from "./components/UseRef/UseRef";
+import Pokemon from "./components/Pokemon/Pokemon";
+// import Api from "./components/Fetch API/Api";
+// import UseEffect from "./components/Use Effect/UseEffect";
+// import UseState from "./components/Use State Challenge/UseState";
+// import ShortCircuit from "./components/Short Circuit Evalution/ShortCircuit";
+// import Toggle from "./components/Toggle Switch/Toggle";
+// import Derived from "./components/State Deriving/Derived";
+// import EventHandling from "./components/EventHandling/EventHandling";
+// import Parents from "./components/PropPassing/Parents";
+// import Propogation from "./components/Propagation/Propogation";
+
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    // <EventHandling/>
+    // <Parents/>
+    // <Propogation/>
+    // <Toggle/>
+    // <Derived/>
+    // <ShortCircuit/>
+    // <UseState/>
+    // <UseEffect/>
+    // <Api/>
+    <Pokemon/>
+    // <UseRef/>
   );
 }
 

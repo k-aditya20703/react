@@ -1,0 +1,26 @@
+.ev-card{
+    width: 50rem;
+    background-color: rgb(25, 23, 48);
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 5rem;
+    margin-left: 50px;
+    padding: 1rem;
+}
+.log{
+    color: black;
+    background-color: rgb(255, 224, 88);
+    width: 10rem;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    height: 2rem;
+    margin-inline-start: 1rem;
+}
+.header{
+    color: white;
+}
+
+.user{
+    color: rgb(255, 224, 88);
+}

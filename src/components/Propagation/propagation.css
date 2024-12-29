@@ -1,0 +1,24 @@
+.grand-p{
+    width: 50%;
+    background-color: #bf0a30;
+    padding: 2rem;
+    justify-content: center;
+    margin-left: 2rem;
+}
+.parents{
+    width: 75%;
+    background-color: #f1f1f1;
+    padding: 2rem;
+    margin-left: 1rem;
+
+
+}
+.child{
+    width: 75%;
+    background-color: #002868;
+    padding: 2rem;
+    margin-left: 0.2rem;
+    color: white;
+    text-align: center;
+
+}
